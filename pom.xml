@@ -346,7 +346,7 @@ file comparators, endian transformation classes, and much more.
     <commons.javadoc.java.link>${commons.javadoc8.java.link}</commons.javadoc.java.link>
     <commons.moditect.version>1.0.0.Final</commons.moditect.version>
     <jmh.version>1.37</jmh.version>
-    <commons.bytebuddy.version>1.14.9</commons.bytebuddy.version>
+    <commons.bytebuddy.version>1.18.7</commons.bytebuddy.version>
     <japicmp.skip>false</japicmp.skip>
     <jacoco.skip>${env.JACOCO_SKIP}</jacoco.skip>
     <commons.release.isDistModule>true</commons.release.isDistModule>
